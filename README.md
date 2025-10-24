@@ -1,0 +1,3 @@
+# Joel Franco V Navales BSIT - 3
+
+I learned that **Git** is a version control system that helps track changes in code, allowing developers to manage different versions of a project efficiently. It enables collaboration by letting multiple people work on the same codebase without overwriting each other’s work. **GitHub**, on the other hand, is an online platform that hosts Git repositories, making it easier to share projects, collaborate with others, and contribute to open-source software. Together, Git and GitHub provide powerful tools for managing, storing, and collaborating on coding projects effectively.
